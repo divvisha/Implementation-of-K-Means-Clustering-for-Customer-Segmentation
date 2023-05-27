@@ -76,7 +76,7 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-<img width="384" alt="ex8 op1" src="https://github.com/divvisha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/127508123/94a42ad5-64ac-45a0-aa26-111698369d0f">
+<img width="384" alt="ex8 op1" src="https://github.com/divvisha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/127508123/94a42ad5-64ac-45a0-aa26-111698369d0f"><br>
 
 <img width="334" alt="ex8 op2" src="https://github.com/divvisha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/127508123/ad921fdb-f058-483b-8e1d-f15ccec35648">
 
