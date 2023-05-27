@@ -78,9 +78,19 @@ plt.title("Customer Segments")
 ## Output:
 <img width="384" alt="ex8 op1" src="https://github.com/divvisha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/127508123/94a42ad5-64ac-45a0-aa26-111698369d0f"><br>
 
-<img width="334" alt="ex8 op2" src="https://github.com/divvisha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/127508123/ad921fdb-f058-483b-8e1d-f15ccec35648">
+<img width="334" alt="ex8 op2" src="https://github.com/divvisha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/127508123/ad921fdb-f058-483b-8e1d-f15ccec35648"><br>
 
+<img width="231" alt="ex8 op3" src="https://github.com/divvisha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/127508123/054849f6-b9cc-4ea7-b236-9b4781972603"><br>
 
+<img width="497" alt="ex8 op4" src="https://github.com/divvisha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/127508123/40abf33a-0e44-4fba-ad22-2fd6b2d2d29a"><br>
+
+KMeans clusters:
+
+<img width="153" alt="ex8 op5" src="https://github.com/divvisha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/127508123/ccc12f62-4c30-407a-87c9-a1720f835b3a"><br>
+
+<img width="424" alt="ex8 op6" src="https://github.com/divvisha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/127508123/3a7b6f71-006f-47b7-b593-5d33a8c04ed4"><br>
+
+<img width="431" alt="ex8 op7" src="https://github.com/divvisha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/127508123/802eb3f3-0b34-4195-8e35-db01618958da">
 
 
 ## Result:
